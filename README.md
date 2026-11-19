@@ -1,2 +1,13 @@
-# quanttide-tutorial-of-vibe-working
-量潮氛围工作教程
+# 量潮氛围工作教程
+
+氛围工作（Vibe Working）系列教程。
+
+## 目录结构
+
+```
+├── docs/         ← 文字教程（即视频录制脚本）
+├── examples/     ← 配套示例代码/资源
+└── README.md
+```
+
+视频成品单独发布，不入库。
